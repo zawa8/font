@@ -50,4 +50,9 @@ using fontforge .sfd files can be edited and fonts can be generated.
 you αre inwited to update / remowe any bugs in these fonts as per your local language.
 
 ####### other font resources
+Dhese fonts are used in fontpicker wApp [hscii](https://hscii.vercel.app) And [hfont](https://hfont.vercel.app)
+Dhese fonts are used in firefox extension  [linguist](https://github.com/zawa8/linguist)
+Dhese fonts generAted using python font forge repo is [github.com/zawa8/pff](https://github.com/zawa8/pff)
+[synonyms](https://docs.google.com/spreadsheets/d/1NatLQlQGA0nqk_cqnY2rdfeQDwZk7ARax6DFz1QnQgA/edit?usp=sharing)
 [npmzs_font_host eksαmple](https://www.npmjs.com/package/@fontsource/dejavu-sans)
+
