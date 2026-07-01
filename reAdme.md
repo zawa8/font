@@ -1,4 +1,6 @@
 **hscii** (heks standard code for information interchange) fonts
+![englosoftw8](imz/fontimz/winglish4.jpg)
+
 encoding : all use 8wowels(**8aiueohcg**) common . **8w** means ԃhese 8wowels aiueohcg
 1. **englosoftw8** ( miksed soft font : any font use for ): (if you know local language 80% and english 40%) 
 	1. english/hindi(marαthi/nepαli) guzrati/gujrati gurmukhi punzabi punjabi sindhi
@@ -6,6 +8,7 @@ encoding : all use 8wowels(**8aiueohcg**) common . **8w** means ԃhese 8wowels a
 	1. kannada konkani telugu
 	1. tamil sinhala malayalam
     	1. russian korean inglish4 (4αԃhт=4xqvj)
+
 2. **englodotw8** ( miksed dotted font : any font use for ): (if you know local language 80% but like english 80%)
 	1. english/hindi(marαthi/nepαli) guzrati/gujrati gurmukhi punzabi punjabi sindhi
 	1. bangla bengali oriya
