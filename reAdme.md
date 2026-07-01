@@ -1,4 +1,4 @@
-**hscii** (heks standard code for information interchange) fonts
+**hscii** (heks standard code for information interchange) [fonts images](https://github.com/zawa8/img4)
 ![englosoftw8](imz/fontimz/winglish4.jpg)
 
 encoding : all use 8wowels(**8aiueohcg**) common . **8w** means ԃhese 8wowels aiueohcg
