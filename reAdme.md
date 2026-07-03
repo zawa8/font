@@ -44,6 +44,7 @@ after downloading instαllation steps depends on your os:
 ##### αfter font gets instαll , these fonts can be set in :
 1. this system (windows/mac/linux/android)
 2. in firefox/chrome/opera/edge browser.
+3. [setfont embedfont how kre](./setfont/)
 
 these fonts are created using fontforge and python scripts:
 these font files(.sfd) and python scripts αre at :
